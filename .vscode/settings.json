@@ -1,0 +1,15 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "argmax",
+        "Buildx",
+        "hyperparameters",
+        "Jieba",
+        "jsonschema",
+        "kevintao",
+        "levelname",
+        "logits",
+        "pydantic",
+        "userdicts"
+    ]
+}
